@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subhani uduwawala</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **my degree as an engineering undergraduate student**
+- 🔭 I’m currently working on **my degree as an Computer Engineering undergraduate student**
 
 - 🌱 I’m currently learning **Frameworks, Web development**
 
